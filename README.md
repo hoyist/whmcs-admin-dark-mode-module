@@ -52,7 +52,7 @@ Perfect for WHMCS installations and client hosting needs
 ### Enterprise-Grade Dedicated Servers
 
 **⭐️⭐️⭐️⭐️⭐️ High-Performance cPanel Reseller Servers**
-> *"Their dedicated reseller servers handle our 200+ client accounts effortlessly. The performance and security features are enterprise-level at reasonable prices."* - Mike, Hosting Provider
+> *"Their dedicated reseller servers handle our 7500+ client accounts effortlessly. The performance and security features are enterprise-level at reasonable prices."* - Mike, Hosting Provider
 
 **Powerful • Secure • Agency-Optimized**
 Built for demanding hosting businesses and large agencies
